@@ -7,4 +7,4 @@ Just go onto the site to play
 
 ## Play Here!
 
-### cyclokid.github.io/chill-eaglers
+### [cyclokid.github.io/chill-eaglers](cyclokid.github.io/chill-eaglers)
